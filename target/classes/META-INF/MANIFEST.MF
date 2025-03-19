@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 23
+Implementation-Title: json-date-converter
+Implementation-Version: 0.0.5
+Main-Class: com.spring.json_date_converter.getconvert.ConvertDateByPatte
+ rn
+Created-By: Maven Integration for Eclipse
+
